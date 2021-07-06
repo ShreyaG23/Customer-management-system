@@ -1,6 +1,6 @@
 #BLL Start
 import pymysql
-con=pymysql.connect(host="localhost",user="root",password="root123",database="5thjune")
+con=pymysql.connect(host="localhost",user="root",password="root123",database="shreyaCMS")
 class Customer:
 
     def __init__(self):
